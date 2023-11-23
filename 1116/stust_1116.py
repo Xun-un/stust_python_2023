@@ -4,7 +4,7 @@ class MyShape:
     def __int__(self, side, length, width, radius):
         side
         length
-        
+        width
         radius
     def square(side):
         return side*side
