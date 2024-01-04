@@ -16,7 +16,7 @@ class friedchicken:
     
     def getSpicy(self):
         # 顯示辣度
-        print(f"Your sauce to {self._spicy} for the fried chicken.")
+        print(f"Your spicy to {self._spicy} for the fried chicken.")
     
     def getTotalPrice(self):
         # 計算並顯示總價格
